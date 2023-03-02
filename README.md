@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=IngilizAdam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IngilizAdam&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IngilizAdam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://ionicabizau.github.io/github-profile-languages/api.html?IngilizAdam)
+![](<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?IngilizAdam" frameborder="0"></iframe>)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IngilizAdam&theme=radical&no-frame=false&no-bg=false&margin-w=4)
